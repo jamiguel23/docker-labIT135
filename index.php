@@ -72,6 +72,7 @@ $result = $conn->query($sql);
 </nav>
     <div class="container">
         <h1 class="mb-4">Users</h1>
+        <p>Never forget what you are, for surely the world will not</p>
         <table class="table table-striped">
             <thead>
                 <tr>
